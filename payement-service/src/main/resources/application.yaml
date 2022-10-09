@@ -1,0 +1,10 @@
+#stripe:
+#    apiKey: sk_test_51LpCkeBJM6XQRgEN4QW3m16MeZ6DRsqNVWa9zr1tnwTFQjADWAAVk1qR4nilHiJJxTlv3PMhjVRw33fB4JitZEYk00KdH0LOBZ
+spring:
+  application:
+    name: user-service
+
+server:
+  port: 8084
+  error:
+    include-message: always
